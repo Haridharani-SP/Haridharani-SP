@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haridharani</h1>
-<h3 align="center">Aspiring Data Analyst | ML Enthusiast | Web Developer</h3>
+<h3 align="center">Aspiring Data Analyst | ML Enthusiast | Web Developer | DevOps Learner</h3>
 
 ---
 
@@ -45,8 +45,8 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: (Add your link)
-- 📧 Email: (Add your email)
+- 💼 LinkedIn: linkedin.com/in/haridharani-s-p-3827412ab
+- 📧 Email: srinidharani1981@gmail.com
 
 ## 📊 GitHub Stats
 
