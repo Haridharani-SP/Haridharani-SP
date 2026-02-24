@@ -44,12 +44,20 @@
 
 ---
 
-## 📫 Connect With Me
-- 💼 LinkedIn: linkedin.com/in/haridharani-s-p-3827412ab
-- 📧 Email: srinidharani1981@gmail.com
+## 🔗 Find Me Online
 
-## 📊 GitHub Stats
+<p align="left">
 
-![Haridharani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haridharani-SP&show_icons=true&theme=radical)
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Ashwitha-blue?style=for-the-badge&logo=linkedin" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haridharani-SP&layout=compact&theme=radical)
+<a href="mailto:yourmail@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="tel:9345048662">
+  <img src="https://img.shields.io/badge/Phone-9345048662-brightgreen?style=for-the-badge&logo=whatsapp" />
+</a>
+
+</p>
