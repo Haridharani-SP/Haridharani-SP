@@ -43,14 +43,6 @@
 
 ---
 
-## 📌 Featured Projects
-- 🔐 Phishing URL Detection (ML + Streamlit)
-- 🎓 Student Dropout Prediction
-- 📝 Meeting Notes Generator
-- 🌐 Multi-Tenant SaaS Platform
-
----
-
 ## 🔗 Find Me Online
 
 <p>
