@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haridharani</h1>
-<h3 align="center">Aspiring Data Analyst | ML Enthusiast | Web Developer | DevOps & CI/CD Learner</h3>
+<h3 align="center">Aspiring Data Analyst | ML Enthusiast | Web Developer | DevOps Learner</h3>
 
 ---
 
