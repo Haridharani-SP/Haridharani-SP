@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Haridharani</h1>
+<h3 align="center">Aspiring Data Analyst | ML Enthusiast | Web Developer</h3>
 
-<!--
-**Haridharani-SP/Haridharani-SP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
+- 🎓 Decision and Computing Sciences Student
+- 📊 Passionate about Data Science & Machine Learning
+- 💻 Love building real-world ML & Web projects
+- 🌱 Currently improving DSA & Cloud fundamentals
+- 🚀 Exploring ML Deployment & Optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming
+- Python
+- Java
+- TypeScript
+- SQL
+
+### 📊 Data & ML
+- Scikit-learn
+- Pandas
+- NumPy
+- PyTorch
+- Power BI
+
+### 🌐 Web Development
+- React
+- Node.js
+- Express
+- MongoDB
+- Firebase
+
+---
+
+## 📌 Featured Projects
+- 🔐 Phishing URL Detection (ML + Streamlit)
+- 🎓 Student Dropout Prediction
+- 📝 Meeting Notes Generator
+- 🌐 Multi-Tenant SaaS Platform
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: (Add your link)
+- 📧 Email: (Add your email)
+
+## 📊 GitHub Stats
+
+![Haridharani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haridharani-SP&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haridharani-SP&layout=compact&theme=radical)
