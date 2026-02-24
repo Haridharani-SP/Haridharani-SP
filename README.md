@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haridharani</h1>
-<h3 align="center">Aspiring Data Analyst | ML Enthusiast | Web Developer | DevOps Learner</h3>
+<h3 align="center">Aspiring Data Analyst | ML Enthusiast | Web Developer | DevOps & CI/CD Learner</h3>
 
 ---
 
@@ -7,8 +7,9 @@
 - 🎓 Decision and Computing Sciences Student
 - 📊 Passionate about Data Science & Machine Learning
 - 💻 Love building real-world ML & Web projects
+- ⚙️ Experience setting up CI pipelines using Jenkins
 - 🌱 Currently improving DSA & Cloud fundamentals
-- 🚀 Exploring ML Deployment & Optimization
+- 🚀 Exploring ML Deployment, Optimization & DevOps
 
 ---
 
@@ -33,6 +34,12 @@
 - Express
 - MongoDB
 - Firebase
+
+### ⚙️ DevOps & Cloud
+- Jenkins (CI Pipeline Setup)
+- Git & GitHub Actions
+- Basic Docker
+- Linux Fundamentals
 
 ---
 
