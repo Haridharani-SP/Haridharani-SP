@@ -46,18 +46,18 @@
 
 ## 🔗 Find Me Online
 
-<p align="left">
+<p>
 
-<a href="linkedin.com/in/haridharani-s-p-3827412ab"_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Haridharani-blue?style=for-the-badge&logo=linkedin" />
+<a href="https://www.linkedin.com/in/haridharani-s-p-3827412ab" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-HARIDHARANI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="srinidharani1981@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" />
+<a href="mailto:srinidharani1981@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="tel:8015944604">
-  <img src="https://img.shields.io/badge/Phone-8015944604-brightgreen?style=for-the-badge&logo=whatsapp" />
+  <img src="https://img.shields.io/badge/Phone-8015944604-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 </p>
